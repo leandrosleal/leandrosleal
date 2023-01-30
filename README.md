@@ -23,6 +23,7 @@ a área de desenvolvimento, está sendo um desafio e tanto, mas chegarei lá.
 ## Meus Contatos
 
 - E-mail leandrosleal@gmail.com
+- Linkedin: leandro-s-leal
 - Github @leandrosleal
 - Redes Sociais (Recentemente apaguei todas as minhas redes sociais para não perder 
 mais tanto tempo só "arrastando para cima" meu basta foi perceber que fiquei 3h vendo
