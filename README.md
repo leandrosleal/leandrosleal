@@ -6,19 +6,20 @@ e comercial, sempre fui da área de infra, mas estou migrando para
 a área de desenvolvimento, está sendo um desafio e tanto, mas chegarei lá.
 #BoaSorteParaMim! ;-) \0/
 
-## Meus Hobbies:
-
-- Ler
-- Assistir filmes mentirosos (quanto mais mentiroso melhor.rs)
-- Viajar
-- Apreciar novos sabores
-
 ##  Atualmente Estudando:
 
 - Lógica de Programação
 - Html + Css
 - Javascript e Typescript
 - React
+- Iniciando faculdade de Análise e Desenvolvimento de Dados.
+
+## Meus Hobbies:
+
+- Ler
+- Assistir filmes mentirosos (quanto mais mentiroso melhor.rs)
+- Viajar
+- Apreciar novos sabores
 
 ## Meus Contatos
 
