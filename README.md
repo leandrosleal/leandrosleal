@@ -12,6 +12,7 @@ a área de desenvolvimento, está sendo um desafio e tanto, mas chegarei lá.
 - Html + Css
 - Javascript e Typescript
 - React
+- Fluter 
 - Iniciando faculdade de Análise e Desenvolvimento de Dados.
 
 ## Meus Hobbies:
